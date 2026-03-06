@@ -1,0 +1,586 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "specialists": "Specialists",
+    "faqs": "FAQs",
+    "contact": "Contact"
+  },
+  "footer": {
+    "description": "At Dentalicactus, we are leaders in specialized dental services dedicated to providing high-quality dental care.",
+
+    "linksTitle": "Links",
+
+    "links": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "contact": "Contact"
+    },
+
+    "locations": {
+      "title": "Find Your Location",
+      "tapicerosAddress": "Carroceros Sur 1699, 21010 Mexicali, B.C.",
+      "guerreroAddress": "Av Vicente Guerrero 6, 21720 Guadalupe Victoria, B.C.",
+      "coahuilaAddress": "Av Bolivia y calle 3ra 53, 21800 Ciudad Coahuila, B.C."
+    },
+
+    "contact": {
+      "title": "Contact"
+    },
+
+    "bottom": {
+      "rights": "All rights reserved.",
+      "privacy": "Privacy",
+      "terms": "Terms"
+    }
+  },
+  "hero": {
+    "cta": "Book Appointment",
+    "ctaSecondary": "Learn More",
+
+    "slide1Title": "This is where your best smile begins",
+    "slide1Subtitle": "Modern facilities and comfortable environment to give you the best dental experience.",
+
+    "slide2Title": "Results that will make you smile",
+    "slide2Subtitle": "Aesthetic treatments and whitening that transform your smile naturally.",
+
+    "slide3Title": "Cutting-edge technology",
+    "slide3Subtitle": "State-of-the-art equipment for accurate diagnoses and effective treatments."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Dentalicactus offers you dental treatments with exceptional results and first-class service.",
+    "includes": "Includes:",
+
+    "general": "General Dentistry",
+    "generalDesc": "Cleanings, check-ups and preventive care to keep your smile healthy.",
+    "generalDetails": [
+      "Complete dental exams",
+      "Professional cleanings",
+      "Cavity treatment",
+      "Simple extractions",
+      "Digital X-rays",
+      "Dental sealants"
+    ],
+
+    "cosmetic": "Cosmetic Dentistry",
+    "cosmeticDesc": "Whitening, veneers and smile design to look incredible.",
+    "cosmeticDetails": [
+      "Teeth whitening",
+      "Porcelain veneers",
+      "Smile design",
+      "Dental contouring",
+      "Aesthetic crowns",
+      "Inlays/Onlays"
+    ],
+
+    "orthodontics": "Orthodontics",
+    "orthodonticsDesc": "Traditional and invisible braces for a perfectly aligned smile.",
+    "orthodonticsDetails": [
+      "Metal braces",
+      "Aesthetic braces",
+      "Invisible aligners",
+      "Retainers",
+      "Interceptive orthodontics",
+      "Bite treatment"
+    ],
+
+    "implants": "Dental Implants",
+    "implantsDesc": "Permanent solutions to replace missing teeth.",
+    "implantsDetails": [
+      "Single implants",
+      "Multiple implants",
+      "All-on-4",
+      "All-on-6",
+      "Implant prosthetics",
+      "Sinus lift"
+    ],
+
+    "endodontics": "Endodontics",
+    "endodonticsDesc": "Root canal treatments to save your natural teeth.",
+    "endodonticsDetails": [
+      "Root canal treatment",
+      "Retreatments",
+      "Apicoectomies",
+      "Pulpotomies",
+      "Emergency treatment",
+      "Pulp diagnosis"
+    ],
+
+    "pediatric": "Pediatric Dentistry",
+    "pediatricDesc": "Specialized dental care for the little ones at home.",
+    "pediatricDetails": [
+      "First dental visit",
+      "Preventive sealants",
+      "Fluoride treatment",
+      "Early orthodontics",
+      "Hygiene education",
+      "Pain-free treatment"
+    ],
+
+    "surgery": "Oral Surgery",
+    "surgeryDesc": "Extractions and surgical procedures with the highest safety.",
+    "surgeryDetails": [
+      "Wisdom teeth extraction",
+      "Gum surgery",
+      "Bone grafts",
+      "Frenectomies",
+      "Oral biopsies",
+      "Pre-prosthetic surgery"
+    ],
+
+    "periodontics": "Periodontics",
+    "periodonticsDesc": "Treatment of gums and dental support tissues.",
+    "periodonticsDetails": [
+      "Deep cleaning",
+      "Periodontitis treatment",
+      "Gum grafts",
+      "Bone regeneration",
+      "Periodontal maintenance",
+      "Pocket surgery"
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "heading": "Your smile is our priority",
+    "description1": "At Dentalicactus, we are leaders in specialized dental services, dedicated to providing dental care with the highest precision and quality.",
+    "description2": "Our team of highly trained professionals uses cutting-edge technology to ensure exceptional results. Committed to the health and well-being of our patients, we guarantee warm and personalized service.",
+    "features": [
+      "Specialists in Every Area",
+      "Digital & Panoramic X-Rays",
+      "Dental Pharmacy",
+      "Personalized Care"
+    ]
+  },
+  "clinicShowcase": {
+    "title": "Our Facilities",
+    "subtitle": "Spaces designed for your comfort, safety, and confidence.",
+    "image1Alt": "Dentali Cactus facilities",
+    "image2Alt": "Dentali Cactus reception",
+    "image3Alt": "Panoramic X-ray equipment"
+  },
+  "locations": {
+    "title": "Find Your Location",
+    "subtitle": "Visit us at any of our three locations in Baja California.",
+
+    "tapiceros": "Tapiceros Branch",
+    "tapicerosAddress": "Carroceros Sur 1699, 21010 Mexicali, B.C.",
+    "tapicerosHours": "Mon - Fri: 10 AM - 8 PM | Sat - Sun: 10 AM - 2 PM",
+
+    "guerrero": "Guadalupe Victoria km 43 Branch",
+    "guerreroAddress": "Av Vicente Guerrero 6, 21720 Guadalupe Victoria, B.C.",
+    "guerreroHours": "Mon - Fri: 10 AM - 7 PM | Sat: 10 AM - 2 PM",
+
+    "coahuila": "Ciudad Coahuila km 57 Branch",
+    "coahuilaAddress": "Av Bolivia y calle 3ra 53, 21800 Ciudad Coahuila, B.C.",
+    "coahuilaHours": "Mon - Fri: 8 AM - 8 PM | Sat - Sun: 8 AM - 4 PM",
+
+    "noPhone": "Coming soon",
+    "directions": "Get directions"
+  },
+  "faqs": {
+    "highlightTitle": "Frequently Asked Questions",
+    "highlightSubtitle": "We answer your most common questions.",
+    "viewAll": "View all questions",
+
+    "clinic": {
+      "q1": {
+        "question": "Who are we at Dentali Cactus?",
+        "answer": "We are a dental clinic founded in 2021 by Luis Jovany Arenas López, dedicated to providing high-quality dental care with a human, ethical, and personalized approach. We have modern facilities, cutting-edge technology, and a professional team committed to the health and trust of every patient."
+      },
+      "q4": {
+        "question": "What makes Dentali Cactus different from other dental clinics?",
+        "answer": "What sets us apart is our human and ethical approach, personalized care, and commitment to clinical quality. At Dentali Cactus we combine cutting-edge technology, modern facilities, and a highly trained professional team to provide honest diagnoses, well-planned treatments, and a safe and reliable experience, all with fair and competitive prices that aim to make dental care accessible without compromising quality."
+      }
+    },
+
+    "team": {
+      "q2": {
+        "question": "Are treatments performed by specialists?",
+        "answer": "Yes, each treatment is performed by a specialist in their corresponding area."
+      }
+    },
+
+    "payments": {
+      "q1": {
+        "question": "What payment methods are available?",
+        "answer": "We accept payments in cash, card, bank transfer, and cash deposits made at convenience stores such as Oxxo, Seven Eleven, or supermarkets to provide greater convenience."
+      }
+    },
+
+    "prevention": {
+      "q1": {
+        "question": "How often should I visit the dentist?",
+        "answer": "It is recommended to visit the dentist every six months for a check-up and cleaning, although the frequency may vary depending on each patient’s needs."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready for your best smile?",
+    "subtitle": "Book your appointment today and discover the difference of quality dental service.",
+    "button": "Book Appointment Now"
+  },
+  "aboutPage": {
+    "title": "About Us",
+    "heroTagline": "This is where your best smile begins",
+
+    "storyTitle": "Our Story",
+
+    "story2021": "2021",
+    "story2021Desc": "Dentali Cactus was founded in April 2021, starting with a single dental unit and a strong commitment to growth and service. Thanks to the trust of our patients, that initial project steadily consolidated over time.",
+
+    "story2022": "2022",
+    "story2022Desc": "This growth allowed us to open our second branch in Guadalupe Victoria km 43, expanding our reach and commitment to the community's oral health.",
+
+    "story2023": "2023",
+    "story2023Desc": "We achieved one of our main objectives: creating larger, more modern and safer facilities for our patients. We began construction of a new location in a strategic area.",
+
+    "km57Details": "The Dentali Cactus km 57 branch features five dental cubicles, a sterilization area, digital panoramic X-ray equipment, a pharmacy, a kitchen for staff and five offices dedicated to diagnosis and the development of personalized treatment plans.",
+
+    "storyMexicali": "Mexicali",
+    "storyMexicaliDesc": "Recently, we opened our third branch in Mexicali, receiving a very favorable response from our patients and referrals, which reaffirms our commitment to continue growing.",
+
+    "storyContinued": "Today, Dentali Cactus continues growing with the same essence that saw it born: commitment, professionalism and human closeness. Each of our branches has been designed with your comfort, safety and trust in mind, integrating cutting-edge technology with ethical and personalized care.",
+
+    "missionTitle": "Our Mission",
+    "mission": "To provide comprehensive dental health services of the highest quality, using cutting-edge technology and a team of specialists committed to the well-being of our patients. We seek to improve the oral health and quality of life of every person who trusts us, offering personalized treatments in a warm and professional environment.",
+
+    "visionTitle": "Our Vision",
+    "vision": "To be the leading dental clinic in the region, recognized for excellence in dental care, technological innovation and social commitment. We aspire to transform the dental experience of our patients by promoting prevention and comprehensive oral health care.",
+
+    "founderName": "Luis Jovany Arenas López",
+    "founderRole": "Founder and General Director",
+    "founderDesc": "With a clear vision of providing excellent dental care, Luis Jovany Arenas López founded Dentali Cactus in 2021. His leadership and commitment have been fundamental to the growth of the clinic, taking it from a single dental unit to three branches in Baja California.",
+
+    "valuesTitle": "Our Values",
+    "valuesSubtitle": "The principles that guide our work every day.",
+
+    "value1Title": "Commitment to health",
+    "value1Desc": "We are dedicated to improving our patients' oral health with comprehensive and personalized care.",
+
+    "value2Title": "Professionalism",
+    "value2Desc": "We have highly trained specialists who are constantly updating their knowledge.",
+
+    "value3Title": "Human warmth",
+    "value3Desc": "We treat every patient with empathy, respect and a close, caring approach.",
+
+    "value4Title": "Quality",
+    "value4Desc": "We use top-quality materials and technology to guarantee the best results.",
+
+    "value5Title": "Honesty and transparency",
+    "value5Desc": "We provide clear diagnoses and fair budgets, with no surprises.",
+
+    "value6Title": "Social responsibility",
+    "value6Desc": "We actively contribute to the well-being of our community through social initiatives.",
+
+    "featuresTitle": "What Sets Us Apart",
+
+    "feature1Title": "Digital and Panoramic X-Rays",
+    "feature1Desc": "We have digital and panoramic X-ray equipment within our facilities. You do not need to go anywhere else.",
+
+    "feature2Title": "Dental Pharmacy",
+    "feature2Desc": "We have a dental pharmacy integrated into our km 57 branch so you can find everything you need in one place.",
+
+    "feature3Title": "Specialists in Every Area",
+    "feature3Desc": "All our treatments are performed by certified specialists in each area of dentistry.",
+
+    "ejercitoTitle": "Army of Smiles",
+    "ejercitoDesc": "In addition to our clinical commitment, we strongly believe in social responsibility. For this reason, we founded Army of Smiles, an initiative aimed at supporting the people who need it most in our community. Through this project we carry out annual activities such as the donation of school supplies and the event \"Photo with Santa\", seeking to bring smiles, hope and meaningful moments to children and families.",
+
+    "closingTitle": "Your smile, our commitment",
+    "closingDesc": "Our greatest goal is to accompany you through every stage of your oral health, offering comprehensive solutions that improve your quality of life and strengthen your smile."
+  },
+  "servicesPage": {
+    "title": "Our Services",
+    "subtitle": "Dentalicactus offers you dental treatments with exceptional results and first-class service.",
+
+    "general": "General Dentistry",
+    "generalDesc": "Cleanings, check-ups and preventive care to keep your smile healthy.",
+    "generalDetails": [
+      "Deep dental cleaning",
+      "Routine exams",
+      "Dental X-rays",
+      "Dental sealants",
+      "Cavity treatment"
+    ],
+
+    "cosmetic": "Cosmetic Dentistry",
+    "cosmeticDesc": "Whitening, veneers and smile design to look incredible.",
+    "cosmeticDetails": [
+      "Teeth whitening",
+      "Porcelain veneers",
+      "Smile design",
+      "Dental contouring",
+      "Dental bonding"
+    ],
+
+    "orthodontics": "Orthodontics",
+    "orthodonticsDesc": "Traditional and invisible braces for a perfectly aligned smile.",
+    "orthodonticsDetails": [
+      "Traditional braces",
+      "Aesthetic braces",
+      "Invisible aligners",
+      "Retainers",
+      "Interceptive orthodontics"
+    ],
+
+    "implants": "Dental Implants",
+    "implantsDesc": "Permanent solutions to replace missing teeth.",
+    "implantsDetails": [
+      "Single implants",
+      "Multiple implants",
+      "All-on-4",
+      "Bone grafts",
+      "Implant-supported prostheses"
+    ],
+
+    "endodontics": "Endodontics",
+    "endodonticsDesc": "Root canal treatments to save your natural teeth.",
+    "endodonticsDetails": [
+      "Root canal treatment",
+      "Endodontic retreatment",
+      "Apicoectomy",
+      "Pulpotomy",
+      "Pulp capping"
+    ],
+
+    "pediatric": "Pediatric Dentistry",
+    "pediatricDesc": "Specialized dental care for the little ones at home.",
+    "pediatricDetails": [
+      "First dental visit",
+      "Preventive sealants",
+      "Fluoride",
+      "Maxillary orthopedics",
+      "Dental education"
+    ],
+
+    "surgery": "Oral Surgery",
+    "surgeryDesc": "Extractions and surgical procedures with the highest safety.",
+    "surgeryDetails": [
+      "Simple extractions",
+      "Wisdom teeth",
+      "Frenectomy",
+      "Oral biopsy",
+      "Pre-prosthetic surgery"
+    ],
+
+    "periodontics": "Periodontics",
+    "periodonticsDesc": "Treatment of gums and dental support tissues.",
+    "periodonticsDetails": [
+      "Deep cleaning",
+      "Scaling and planing",
+      "Gum surgery",
+      "Gum grafts",
+      "Periodontal maintenance"
+    ],
+
+    "moreInfo": "Need more information about any service?"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here to help. Schedule your appointment or send us a message.",
+    "name": "Full Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send Message",
+    "schedule": "Schedule Appointment"
+  },
+  "specialistsPage": {
+    "heroTitle": "Dental Specialists",
+    "heroSubtitle": "Our team of specialists is prepared to provide advanced treatments with modern technology and personalized care.",
+
+    "ortho": {
+      "title": "Orthodontics",
+      "intro": "An orthodontic specialist is a dentist who, after completing their dental degree, completes a specialization in orthodontics (generally 2 to 3 years), focused on the diagnosis, prevention and treatment of malocclusions.",
+
+      "malocclusionTitle": "What are malocclusions?",
+      "malocclusion1": "Crowded or spaced teeth",
+      "malocclusion2": "Crossbite, open bite or deep bite",
+      "malocclusion3": "Prognathism or retrognathism",
+      "malocclusion4": "Misalignments that affect function and aesthetics",
+
+      "diagnosisTitle": "Diagnosis",
+      "diagnosis1": "Evaluates dental and bone position",
+      "diagnosis2": "Analyzes X-rays, photographs and digital models",
+      "diagnosis3": "Determines whether the problem is dental, skeletal or mixed",
+
+      "treatmentTitle": "Treatment",
+      "treatment1": "Places and controls braces (metal, aesthetic, self-ligating)",
+      "treatment2": "Uses orthopedic appliances in growing patients",
+      "treatment3": "Provides periodic follow-up and makes adjustments during treatment",
+
+      "objectivesTitle": "Treatment objectives",
+      "objective1": "Achieve a functional and stable bite",
+      "objective2": "Improve facial and smile aesthetics",
+      "objective3": "Facilitate better oral hygiene",
+      "objective4": "Prevent wear, joint pain and future problems",
+
+      "interdisciplinaryTitle": "Interdisciplinary work",
+      "interdisciplinary1": "Collaborates with periodontists, rehabilitators, maxillofacial surgeons and pediatric dentists",
+      "interdisciplinary2": "In some cases prepares the patient for orthognathic surgery",
+
+      "summary": "The orthodontic specialist not only aligns teeth, but also corrects the way the jaws and teeth function together, seeking long-term health, stability and aesthetics."
+    },
+
+    "endo": {
+      "title": "Endodontics",
+      "intro": "An endodontic specialist is the dentist responsible for saving teeth damaged by deep cavities, trauma or infections, preventing them from needing extraction. This is the specialist who performs endodontics, also known as root canal treatment.",
+
+      "whatDoTitle": "What does an endodontist do?",
+      "whatDo1": "Removes infection or inflammation from inside the tooth",
+      "whatDo2": "Cleans and disinfects the root canals",
+      "whatDo3": "Seals the tooth to prevent new infections",
+      "whatDo4": "Treats severe dental pain",
+      "whatDo5": "Treats abscesses and root lesions",
+      "whatDo6": "Retreats root canals that previously failed",
+
+      "whyTitle": "Why is endodontics important?",
+      "why1": "Relieves pain",
+      "why2": "Stops the infection",
+      "why3": "Allows you to keep your natural tooth",
+      "why4": "Avoids extractions and more complex treatments",
+
+      "summary": "The endodontist removes the infection from inside the tooth and saves it so you can continue using your tooth normally."
+    },
+
+    "pedo": {
+      "title": "Pediatric Dentistry",
+      "intro": "A pediatric dentist is a dentist specialized in caring for the dental health of babies, children and adolescents. In addition to studying dentistry, they receive special training to care for children in a safe, patient and friendly way.",
+
+      "whatDoTitle": "What does a pediatric dentist do?",
+      "whatDo1": "Checks and cares for baby and permanent teeth",
+      "whatDo2": "Prevents cavities with cleanings, fluoride and sealants",
+      "whatDo3": "Treats cavities and dental pain in children",
+      "whatDo4": "Treats dental trauma or fractures",
+      "whatDo5": "Guides proper dental and jaw growth",
+      "whatDo6": "Teaches oral hygiene habits to children and parents",
+
+      "whyTitle": "Why is it important to take children to a pediatric dentist?",
+      "why1": "Helps children not be afraid of the dentist",
+      "why2": "Detects problems early",
+      "why3": "Protects teeth from an early age",
+      "why4": "Lays the foundation for a healthy smile in the future",
+
+      "summary": "The pediatric dentist is the specialist who takes care of children's smiles from their very first teeth."
+    },
+
+    "surgery": {
+      "title": "Oral Surgery",
+      "intro": "An oral surgery specialist is the dentist responsible for performing surgical procedures in the mouth, teeth and jaws when conventional treatment is not enough. They have specialized education and training to perform surgeries safely.",
+
+      "whatDoTitle": "What does an oral surgeon do?",
+      "whatDo1": "Extracts wisdom teeth",
+      "whatDo2": "Performs complex dental extractions",
+      "whatDo3": "Treats infections and abscesses",
+      "whatDo4": "Removes cysts and lesions in the mouth",
+      "whatDo5": "Places dental implants",
+      "whatDo6": "Performs minor soft tissue surgeries (gum tissue, frenulums)",
+
+      "whyTitle": "Why is oral surgery important?",
+      "why1": "Solves problems that cannot be treated in any other way",
+      "why2": "Reduces pain and infections",
+      "why3": "Allows recovery of oral function and health",
+      "why4": "Improves the patient's quality of life",
+
+      "summary": "The oral surgeon solves dental problems that require surgical intervention, restoring health and function to your mouth."
+    },
+
+    "perio": {
+      "title": "Periodontics",
+      "intro": "A periodontics specialist is the dentist responsible for caring for the gums and the bone that support the teeth. Their work is to prevent and treat gum diseases, such as gingivitis and periodontitis.",
+
+      "whatDoTitle": "What does a periodontist do?",
+      "whatDo1": "Treats inflamed, bleeding or infected gums",
+      "whatDo2": "Performs deep cleanings (curettage)",
+      "whatDo3": "Stops bone loss around the teeth",
+      "whatDo4": "Corrects gum recession",
+      "whatDo5": "Treats tooth mobility",
+      "whatDo6": "Prepares the gums for implants or crowns",
+
+      "whyTitle": "Why is periodontics important?",
+      "why1": "Keeps teeth firm",
+      "why2": "Prevents tooth loss",
+      "why3": "Improves breath and oral health",
+      "why4": "Helps preserve your smile over the long term",
+
+      "summary": "The periodontist takes care of the gums and bone that support your teeth, preventing tooth loss and keeping your smile strong."
+    }
+  },
+  "faqsPage": {
+    "heroTitle": "Frequently Asked Questions",
+    "heroSubtitle": "Find answers to the most common questions about our services, team, and clinic.",
+    "highlightTitle": "Frequently Asked Questions",
+    "highlightSubtitle": "We answer your most common questions.",
+    "viewAll": "See all questions",
+
+    "cat.clinic": "About the Clinic",
+    "cat.team": "Care & Professional Team",
+    "cat.treatments": "Consultations & Treatments",
+    "cat.technology": "Technology & Facilities",
+    "cat.payments": "Payments & Plans",
+    "cat.prevention": "Prevention & Follow-up",
+
+    "clinic.q1.question": "Who are we at Dentali Cactus?",
+    "clinic.q1.answer": "We are a dental clinic founded in 2021 by Luis Jovany Arenas López, dedicated to providing quality dental care with a human, ethical, and personalized approach. We have modern facilities, cutting-edge technology, and a professional team committed to the health and trust of every patient.",
+
+    "clinic.q2.question": "How long has Dentali Cactus been operating?",
+    "clinic.q2.answer": "Dentali Cactus opened its doors on April 4, 2021.",
+
+    "clinic.q3.question": "In which cities or branches do you provide care?",
+    "clinic.q3.answer": "We have three branches: Av Bolivia and 3rd Street, Estación Coahuila km 57; Av Vicente Guerrero and 5th Street, Guadalupe Victoria km 43; and Av Tapiceros and Street I, Industrial District, Mexicali BC.",
+
+    "clinic.q4.question": "What sets Dentali Cactus apart from other dental clinics?",
+    "clinic.q4.answer": "We stand out for our human and ethical approach, personalized care, and commitment to clinical quality. At Dentali Cactus, we combine cutting-edge technology, modern facilities, and a trained professional team to offer honest diagnoses, well-planned treatments, and a safe, reliable experience—all at reasonable and competitive prices that aim to make dental care accessible without compromising quality.",
+
+    "team.q1.question": "Who makes up the dental team?",
+    "team.q1.answer": "Our team is composed of certified specialists in every branch of dentistry, including orthodontics, endodontics, periodontics, oral surgery, pediatric dentistry, cosmetic dentistry, and implantology.",
+
+    "team.q2.question": "Are treatments performed by specialists?",
+    "team.q2.answer": "Yes, each treatment is performed by a specialist in the corresponding area.",
+
+    "team.q3.question": "Do you treat children, adults, and seniors?",
+    "team.q3.answer": "Yes, we treat children, adults, and seniors, offering treatments tailored to each stage of life.",
+
+    "treatments.q1.question": "Do I need an appointment or can I walk in?",
+    "treatments.q1.answer": "We recommend scheduling an appointment for more personalized care, reduced wait times, and the best experience during your visit.",
+
+    "treatments.q2.question": "What treatments do you offer?",
+    "treatments.q2.answer": "We offer comprehensive dental care including preventive, restorative, and cosmetic treatments. We have all dental specialties.",
+
+    "treatments.q3.question": "Do you perform personalized assessments and diagnoses?",
+    "treatments.q3.answer": "Yes. We perform complete assessments and personalized diagnoses, creating treatment plans tailored to each patient's needs and goals.",
+
+    "technology.q1.question": "What technology do you use for diagnosis and treatment?",
+    "technology.q1.answer": "At our main branch, Estación Coahuila km 57, we have digital X-rays, an intraoral scanner, an orthopantomograph, and professional cameras for intraoral photography, allowing us to make precise diagnoses and plan high-quality treatments.",
+
+    "technology.q2.question": "Do you have digital panoramic X-rays?",
+    "technology.q2.answer": "Yes, at our km 57 branch.",
+
+    "technology.q3.question": "How do you ensure sterilization and patient safety?",
+    "technology.q3.answer": "We comply with strict sterilization and disinfection protocols, using certified equipment and processes to ensure a safe and reliable environment for every patient.",
+
+    "payments.q1.question": "What payment methods are available?",
+    "payments.q1.answer": "We accept cash, card, bank transfer, and cash deposits at convenience stores like Oxxo, 7-Eleven, or supermarkets for your convenience.",
+
+    "payments.q2.question": "Do you offer treatment plans and payment options?",
+    "payments.q2.answer": "Yes, we offer treatment plans and payment options for some treatments, which are evaluated on a personalized basis during the assessment to provide the best option for each patient.",
+
+    "payments.q3.question": "Can I request an invoice for my treatments?",
+    "payments.q3.answer": "Yes, we issue invoices for our services in accordance with current tax requirements.",
+
+    "prevention.q1.question": "How often should I visit the dentist?",
+    "prevention.q1.answer": "It is recommended to visit the dentist every six months for check-ups and cleaning, although the frequency may vary depending on each patient's needs.",
+
+    "prevention.q2.question": "What does a professional dental cleaning include?",
+    "prevention.q2.answer": "It includes the removal of tartar and bacterial plaque, dental polishing, and a general check-up to maintain proper oral health.",
+
+    "prevention.q3.question": "How can I take care of my smile after a treatment?",
+    "prevention.q3.answer": "By following your dentist's instructions, maintaining good oral hygiene, and attending your periodic check-ups to ensure lasting results.",
+
+    "prevention.q4.question": "How can I be part of Dentali Cactus?",
+    "prevention.q4.answer": "For information on available positions, send your email to dentalicactus@gmail.com."
+  }
+}

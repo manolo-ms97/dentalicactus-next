@@ -210,20 +210,6 @@ export default function Footer({ lang, dictionary }: Props) {
 
             <div className="flex items-center gap-6 text-sm">
 
-              <Link
-                href="#"
-                className="text-background/60 hover:text-background transition-colors"
-              >
-                {t.bottom.privacy}
-              </Link>
-
-              <Link
-                href="#"
-                className="text-background/60 hover:text-background transition-colors"
-              >
-                {t.bottom.terms}
-              </Link>
-
             </div>
 
           </div>
